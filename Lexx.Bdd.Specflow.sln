@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{673CFA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{41C17472-52B9-4447-A8D1-CE81756106C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexx.Bdd.Specflow.Repository.UnitTest", "Lexx.Bdd.Specflow.Repository.UnitTest\Lexx.Bdd.Specflow.Repository.UnitTest.csproj", "{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,10 +31,6 @@ Global
 		{C5EBD0FC-E843-4C3C-83B8-50E785C8C677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5EBD0FC-E843-4C3C-83B8-50E785C8C677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5EBD0FC-E843-4C3C-83B8-50E785C8C677}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,7 +39,6 @@ Global
 		{6A64A1E6-E207-4A00-8968-1C8B6F8237A6} = {673CFA6D-34E5-4B7B-B1E6-2571A200A955}
 		{E0309A54-4700-4D6C-B59B-87132BC253DE} = {673CFA6D-34E5-4B7B-B1E6-2571A200A955}
 		{C5EBD0FC-E843-4C3C-83B8-50E785C8C677} = {41C17472-52B9-4447-A8D1-CE81756106C8}
-		{0CF2BCDA-1E3D-4ABF-9AB4-E838DB090808} = {41C17472-52B9-4447-A8D1-CE81756106C8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3C6FE8B2-87E6-4444-BF34-329E204151AB}
